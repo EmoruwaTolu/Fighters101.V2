@@ -5,5 +5,6 @@ I took a new approach which was to already define the area of the picture the pr
 Admittedly my initial approach works when looping through sprites with consistent spacing and frame counts, but I don't make my own sprites and finding resources with the same standard online for all their sprites is rather difficult.
 So moving forward creating the indivdual sprites and areas for them will be the approach I take, unless I figure out an alternative the current approach.
 
+There are two websites that can be viewed to view the websites the files "idea.html" and "naruto.html" needs to be opened in a browser, Google Chrome preferrably.
 
 ***I DO NOT OWN NOR CLAIM TO OWN ANY OF THE IMAGES IN THE PHOTOS FOLDER***
